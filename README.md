@@ -7,4 +7,4 @@ I will occationally release stuff.
  - txsla.net:25566 (NOVA SMP)
 
 **Web Servers:**
- - http://txsla.net
+ - http://www.txsla.net
