@@ -1,5 +1,7 @@
 # I am Tesla.
-I will occationally release stuff.
+I host some servers and will occationally release some stuff.
+
+
 
 ## Servers Currently Hosted:
 **Minecraft:**
